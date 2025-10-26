@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnlineStoreDataAnalysis
+namespace OnlineStoreDataAnalysis.Models
 {
     public class Product
     {
